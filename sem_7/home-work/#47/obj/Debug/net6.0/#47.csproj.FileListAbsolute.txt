@@ -1,0 +1,15 @@
+D:\Geekbrains\C#\sem_7\home-work\#47\obj\Debug\net6.0\#47.csproj.AssemblyReference.cache
+D:\Geekbrains\C#\sem_7\home-work\#47\obj\Debug\net6.0\#47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\C#\sem_7\home-work\#47\obj\Debug\net6.0\#47.AssemblyInfoInputs.cache
+D:\Geekbrains\C#\sem_7\home-work\#47\obj\Debug\net6.0\#47.AssemblyInfo.cs
+D:\Geekbrains\C#\sem_7\home-work\#47\obj\Debug\net6.0\#47.csproj.CoreCompileInputs.cache
+D:\Geekbrains\C#\sem_7\home-work\#47\bin\Debug\net6.0\#47.exe
+D:\Geekbrains\C#\sem_7\home-work\#47\bin\Debug\net6.0\#47.deps.json
+D:\Geekbrains\C#\sem_7\home-work\#47\bin\Debug\net6.0\#47.runtimeconfig.json
+D:\Geekbrains\C#\sem_7\home-work\#47\bin\Debug\net6.0\#47.dll
+D:\Geekbrains\C#\sem_7\home-work\#47\bin\Debug\net6.0\#47.pdb
+D:\Geekbrains\C#\sem_7\home-work\#47\obj\Debug\net6.0\#47.dll
+D:\Geekbrains\C#\sem_7\home-work\#47\obj\Debug\net6.0\refint\#47.dll
+D:\Geekbrains\C#\sem_7\home-work\#47\obj\Debug\net6.0\#47.pdb
+D:\Geekbrains\C#\sem_7\home-work\#47\obj\Debug\net6.0\#47.genruntimeconfig.cache
+D:\Geekbrains\C#\sem_7\home-work\#47\obj\Debug\net6.0\ref\#47.dll
