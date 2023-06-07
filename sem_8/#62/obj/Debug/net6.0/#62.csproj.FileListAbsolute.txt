@@ -1,0 +1,15 @@
+D:\Geekbrains\CSharp\sem_8\#62\bin\Debug\net6.0\#62.exe
+D:\Geekbrains\CSharp\sem_8\#62\bin\Debug\net6.0\#62.deps.json
+D:\Geekbrains\CSharp\sem_8\#62\bin\Debug\net6.0\#62.runtimeconfig.json
+D:\Geekbrains\CSharp\sem_8\#62\bin\Debug\net6.0\#62.dll
+D:\Geekbrains\CSharp\sem_8\#62\bin\Debug\net6.0\#62.pdb
+D:\Geekbrains\CSharp\sem_8\#62\obj\Debug\net6.0\#62.csproj.AssemblyReference.cache
+D:\Geekbrains\CSharp\sem_8\#62\obj\Debug\net6.0\#62.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\CSharp\sem_8\#62\obj\Debug\net6.0\#62.AssemblyInfoInputs.cache
+D:\Geekbrains\CSharp\sem_8\#62\obj\Debug\net6.0\#62.AssemblyInfo.cs
+D:\Geekbrains\CSharp\sem_8\#62\obj\Debug\net6.0\#62.csproj.CoreCompileInputs.cache
+D:\Geekbrains\CSharp\sem_8\#62\obj\Debug\net6.0\#62.dll
+D:\Geekbrains\CSharp\sem_8\#62\obj\Debug\net6.0\refint\#62.dll
+D:\Geekbrains\CSharp\sem_8\#62\obj\Debug\net6.0\#62.pdb
+D:\Geekbrains\CSharp\sem_8\#62\obj\Debug\net6.0\#62.genruntimeconfig.cache
+D:\Geekbrains\CSharp\sem_8\#62\obj\Debug\net6.0\ref\#62.dll
